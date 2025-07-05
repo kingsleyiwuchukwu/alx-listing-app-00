@@ -29,14 +29,18 @@ This project establishes a robust foundation using **Next.js**, **TypeScript**, 
 
 Follow these instructions to run the project locally:
 
-### 1️⃣ Clone the repository
+
 ```bash
+### 1️⃣ Clone the repository
+
 git clone https://github.com/kingsleyiwuchukwu/alx-listing-app
 
 cd alx-listing-app
 
 ### 2️⃣ Install dependencies
+
 npm install
 
 ### 3️⃣ Run the development server
+
 npm run dev
