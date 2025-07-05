@@ -17,12 +17,11 @@ This project establishes a robust foundation using **Next.js**, **TypeScript**, 
 
 ## 📂 Project Structure
 
-── components/ # Reusable UI components (e.g., Button, Navbar, Card)
-── interfaces/ # TypeScript interfaces and types for props, data models
-── constants/ # Static values (e.g., enums, config objects, static lists)
-── public/
- └── assets/ # Static assets like images, icons, fonts
-── pages/ # Next.js pages (routes).
+- components/ # Reusable UI components (e.g., Button, Navbar, Card)
+- interfaces/ # TypeScript interfaces and types for props, data models
+- constants/ # Static values (e.g., enums, config objects, static lists)
+- public/assets/ # Static assets like images, icons, fonts
+- pages/ # Next.js pages (routes).
 
 ---
 
@@ -36,6 +35,8 @@ git clone https://github.com/kingsleyiwuchukwu/alx-listing-app
 
 cd alx-listing-app
 
+### 2️⃣ Install dependencies
 npm install
 
+### 3️⃣ Run the development server
 npm run dev
