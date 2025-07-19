@@ -39,7 +39,7 @@ const Header: React.FC = () => {
                 {/* Logo */}
                 <div className="flex items-center">
                     <Image
-                        src="/assets/Logp Showcase.png"
+                        src="/assets/Logo Showcase.png"
                         alt="Logo"
                         width={40}
                         height={40}
